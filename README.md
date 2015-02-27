@@ -1,0 +1,2 @@
+# GrailsPractice
+To Study Grails
